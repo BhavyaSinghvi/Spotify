@@ -3,7 +3,7 @@
 A responsive and sleek Spotify-like web player built using **HTML**, **CSS**, and **JavaScript**. This project replicates key UI elements of the original Spotify player, including a sidebar, playlist cards, and a functional music control bar.
 
 ---
-<video src="assets/demo.mp4" controls width="600"></video>
+<video src="Spotify-Web Player_Music for everyone - Profile 1 - Microsoft​ Edge 2025-06-30 15-13-51.mp4" controls width="600"></video>
 
 ## 🚀 Features
 
